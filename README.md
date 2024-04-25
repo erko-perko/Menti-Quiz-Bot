@@ -87,3 +87,7 @@ python3 menti_quiz_bot.py
 *Thank you for using or contributing to the Mentimeter Quiz Bot!*
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=VN2Y3KTX28JMC)
+<a href="https://twitter.com/intent/tweet?text=Check+out+this+repository!&url=https%3A%2F%2Fgithub.com%2Ferko-perko%2FMenti-Quiz-Bot&hashtags=github+menti+openai+gpt&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="Check out this repository!"></img>
+</a>
