@@ -50,9 +50,9 @@ You'll need to install selenium, webdriver-manager, and requests. You can instal
 ```bash
 pip install selenium webdriver-manager requests
 ```
-- Selenium: Automates the web browser.
-- WebDriver-Manager: Handles the driver for the browser (in this case Chrome).
-- Requests: Makes HTTP requests (used to communicate with the OpenAI API).
+- **Selenium**: Automates the web browser.
+- **WebDriver-Manager**: Handles the driver for the browser (in this case Chrome).
+- **Requests**: Makes HTTP requests (used to communicate with the OpenAI API).
 
 ## Configuration
 To configure the script for different quizzes or environments, modify the following variables in the **menti_quiz_bot.py** script:
@@ -85,8 +85,5 @@ python3 menti_quiz_bot.py
 - Link any relevant issues or discussions.
 
 *Thank you for using or contributing to the Mentimeter Quiz Bot!*
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/donate/?hosted_button_id=VN2Y3KTX28JMC)
+
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=VN2Y3KTX28JMC)
