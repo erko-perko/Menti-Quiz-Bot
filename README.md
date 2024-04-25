@@ -86,4 +86,4 @@ python3 menti_quiz_bot.py
 
 *Thank you for using or contributing to the Mentimeter Quiz Bot!*
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=VN2Y3KTX28JMC)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=VN2Y3KTX28JMC)
